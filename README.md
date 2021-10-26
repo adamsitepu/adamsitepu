@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adamsitepu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-stack web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://www.linkedin.com/in/krisadamstp/
 
 <!---
